@@ -8,7 +8,7 @@ You can preview a formatted version of this README.md document by clicking the '
 
 - Review your learning progress on:
   - [Textbook reading and annotations](https://qtalr.github.io/book)
-  - [Recipes #0 and #0 reading and annotations](https://qtalr.github.io/qtalrkit/articles/)
+  - [Recipes #0 and #1 reading and annotations](https://qtalr.github.io/qtalrkit/articles/)
   - Labs #0 and #1
 
 ## Objectives
