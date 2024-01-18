@@ -1,4 +1,4 @@
-# README
+# Self-assessment #1
 
 ## Preparation
 
@@ -6,6 +6,7 @@
   - [Textbook reading and annotations](https://qtalr.github.io/book)
   - [Recipes #0 and #1 reading and annotations](https://qtalr.github.io/qtalrkit/articles/)
   - Labs #0 and #1
+  - Project step #1: Research area
 
 ## Objectives
 
