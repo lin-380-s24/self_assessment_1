@@ -6,7 +6,7 @@
   - [Textbook reading and annotations](https://qtalr.github.io/book)
   - [Recipes #0 and #1 reading and annotations](https://qtalr.github.io/qtalrkit/articles/)
   - Labs #0 and #1
-  - Project step #1: Research area
+  - Project step #1: Interest statement
 
 ## Objectives
 
@@ -17,9 +17,9 @@
 
 ### Setup
 
-1. Create a new RStudio project for this assignment. Title it "self_assessment_1". You may want to create a new folder for this, and the other self-assessments, in your `Workspace/` folder.
+1. Create a new RStudio project for your assessments named `assessments`. Add it inside the `Workspace/` folder. You will add your other assessments to this project.
 2. Create a new Quarto document. Title it "Self-assessment #1" and provide add your name as the author.
-2. Delete all the material below the front matter
+3. Delete all the material below the front matter to begin with a blank document.
 
 ### Respond
 
