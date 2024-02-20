@@ -17,9 +17,10 @@
 
 ### Setup
 
-1. Create a new RStudio project for your assessments named `assessments`. Add it inside the `Workspace/` folder. You will add your other assessments to this project.
-2. Create a new Quarto document. Title it "Self-assessment #1" and provide add your name as the author.
-3. Delete all the material below the front matter to begin with a blank document.
+1. Create a new RStudio project for this assignment. Title it "self_assessment_1".
+2. Add it inside the `Workspace/` folder.
+3. Create a new Quarto document. Title it "Self-assessment #1" and provide add your name as the author.
+4. Delete all the material below the front matter to begin with a blank document.
 
 ### Respond
 
